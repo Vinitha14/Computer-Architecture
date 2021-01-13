@@ -1,0 +1,466 @@
+$date
+	Fri Mar  1 11:47:50 2019
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module CLA_tb $end
+$var wire 16 ! O [15:0] $end
+$var wire 1 " Of $end
+$var reg 1 # C_in $end
+$var reg 16 $ M [15:0] $end
+$var reg 16 % N [15:0] $end
+$var reg 1 & clk $end
+$scope module Adder $end
+$var wire 1 ' C_in $end
+$var wire 17 ( D [16:0] $end
+$var wire 16 ) M [15:0] $end
+$var wire 16 * N [15:0] $end
+$var wire 16 + O [15:0] $end
+$var wire 1 " Of $end
+$var wire 17 , P [16:0] $end
+$var wire 1 - clk $end
+$var reg 1 . AO1 $end
+$var reg 1 / AO2 $end
+$var reg 1 0 AO3 $end
+$var reg 1 1 AO4 $end
+$var reg 16 2 D1 [15:0] $end
+$var reg 16 3 D2 [15:0] $end
+$var reg 16 4 D3 [15:0] $end
+$var reg 16 5 D4 [15:0] $end
+$var reg 16 6 P1 [15:0] $end
+$var reg 16 7 P2 [15:0] $end
+$var reg 16 8 P3 [15:0] $end
+$var reg 16 9 XO1 [15:0] $end
+$var reg 16 : XO2 [15:0] $end
+$var reg 16 ; XO3 [15:0] $end
+$var reg 16 < XO4 [15:0] $end
+$scope begin genblk1 $end
+$upscope $end
+$scope begin genblk01 $end
+$upscope $end
+$scope begin genblk001 $end
+$upscope $end
+$scope begin genblk0001 $end
+$upscope $end
+$scope begin genblk00001 $end
+$upscope $end
+$scope begin genblk000001 $end
+$upscope $end
+$scope begin genblk0000001 $end
+$upscope $end
+$scope begin genblk00000001 $end
+$upscope $end
+$scope begin genblk000000001 $end
+$upscope $end
+$scope begin genblk0000000001 $end
+$upscope $end
+$scope begin genblk00000000001 $end
+$upscope $end
+$scope begin genblk000000000001 $end
+$upscope $end
+$scope begin genblk0000000000001 $end
+$upscope $end
+$scope begin genblk00000000000001 $end
+$upscope $end
+$scope begin genblk000000000000001 $end
+$upscope $end
+$scope begin genblk2 $end
+$upscope $end
+$scope begin genblk02 $end
+$upscope $end
+$scope begin genblk002 $end
+$upscope $end
+$scope begin genblk0002 $end
+$upscope $end
+$scope begin genblk00002 $end
+$upscope $end
+$scope begin genblk000002 $end
+$upscope $end
+$scope begin genblk0000002 $end
+$upscope $end
+$scope begin genblk00000002 $end
+$upscope $end
+$scope begin genblk000000002 $end
+$upscope $end
+$scope begin genblk0000000002 $end
+$upscope $end
+$scope begin genblk00000000002 $end
+$upscope $end
+$scope begin genblk000000000002 $end
+$upscope $end
+$scope begin genblk0000000000002 $end
+$upscope $end
+$scope begin genblk00000000000002 $end
+$upscope $end
+$scope begin genblk3 $end
+$upscope $end
+$scope begin genblk03 $end
+$upscope $end
+$scope begin genblk003 $end
+$upscope $end
+$scope begin genblk0003 $end
+$upscope $end
+$scope begin genblk00003 $end
+$upscope $end
+$scope begin genblk000003 $end
+$upscope $end
+$scope begin genblk0000003 $end
+$upscope $end
+$scope begin genblk00000003 $end
+$upscope $end
+$scope begin genblk000000003 $end
+$upscope $end
+$scope begin genblk0000000003 $end
+$upscope $end
+$scope begin genblk00000000003 $end
+$upscope $end
+$scope begin genblk000000000003 $end
+$upscope $end
+$scope begin genblk4 $end
+$upscope $end
+$scope begin genblk04 $end
+$upscope $end
+$scope begin genblk004 $end
+$upscope $end
+$scope begin genblk0004 $end
+$upscope $end
+$scope begin genblk00004 $end
+$upscope $end
+$scope begin genblk000004 $end
+$upscope $end
+$scope begin genblk0000004 $end
+$upscope $end
+$scope begin genblk00000004 $end
+$upscope $end
+$scope begin genblk5 $end
+$upscope $end
+$scope begin genblk05 $end
+$upscope $end
+$scope begin genblk005 $end
+$upscope $end
+$scope begin genblk0005 $end
+$upscope $end
+$scope begin genblk6 $end
+$upscope $end
+$scope begin genblk06 $end
+$upscope $end
+$scope begin genblk006 $end
+$upscope $end
+$scope begin genblk0006 $end
+$upscope $end
+$scope begin genblk00006 $end
+$upscope $end
+$scope begin genblk000006 $end
+$upscope $end
+$scope begin genblk0000006 $end
+$upscope $end
+$scope begin genblk00000006 $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+bx <
+bx ;
+bx :
+bx 9
+bx 8
+bx 7
+bx 6
+bx 5
+bx 4
+bx 3
+bx 2
+x1
+x0
+x/
+x.
+0-
+b10001000100110 ,
+bx +
+b1011101111011110 *
+b1010101011001101 )
+b10101010110011000 (
+0'
+0&
+b1011101111011110 %
+b1010101011001101 $
+0#
+x"
+bx !
+$end
+#1
+b1000100010011 9
+1.
+b10x 6
+bx 7
+bx 8
+bx 4
+bx 5
+bx 3
+b111011110111000 2
+1&
+1-
+#2
+b11000101100000100 ,
+b1000 (
+0&
+0-
+b1100010110000100 %
+b1100010110000100 *
+b110 $
+b110 )
+#3
+bx 5
+bx 8
+bx 4
+b1000100010011 :
+1/
+b0xxx 7
+b111011110111000 3
+b1100010110000010 9
+0.
+b100000000x 6
+b1000 2
+1&
+1-
+#4
+b10010001100101000 ,
+b110001010110 (
+0&
+0-
+b1001011110101011 %
+b1001011110101011 *
+b11000111111 $
+b11000111111 )
+#5
+b1001000110010100 9
+b100000000x 6
+b1100010110000010 :
+0/
+b0xx 7
+b1000100010011 ;
+10
+b0xxxx 8
+b111011110111000 4
+bx 5
+b1000 3
+b110001111110 2
+1&
+1-
+#6
+b1010001000101010 ,
+b10001000000 (
+0&
+0-
+b100001100100001 %
+b100001100100001 *
+b1001000110100 $
+b1001000110100 )
+#7
+1"
+b110011010101011 !
+b110011010101011 +
+b1000100010011 <
+11
+b111011110111000 5
+b1100010110000010 ;
+00
+b0xxxx 8
+b1000 4
+b1001000110010100 :
+b0xx 7
+b110001111110 3
+b101000100010101 9
+b0x 6
+b10001000000 2
+1&
+1-
+#8
+b11111111111111110 ,
+b0 (
+0&
+0-
+b1001100001110110 %
+b1001100001110110 *
+b110011110001001 $
+b110011110001001 )
+#9
+b1100010110001010 !
+b1100010110001010 +
+b1111111111111111 9
+b111111111111110x 6
+b101000100010101 :
+b0xx 7
+b1001000110010100 ;
+b0xxxx 8
+b1100010110000010 <
+01
+0"
+b110001111110 4
+b1000 5
+b10001000000 3
+b0 2
+1&
+1-
+#10
+b0 ,
+0&
+0-
+b0 %
+b0 *
+b0 $
+b0 )
+#11
+b1001110111101010 !
+b1001110111101010 +
+b1001000110010100 <
+b110001111110 5
+b101000100010101 ;
+b0xxxx 8
+b10001000000 4
+b1111111111111111 :
+b1111111111110xxx 7
+b0 3
+b0 9
+b0x 6
+b0 2
+1&
+1-
+#12
+0&
+0-
+#13
+b101010101010101 !
+b101010101010101 +
+b0x 6
+b0 :
+b0xx 7
+b1111111111111111 ;
+b111111110xxxxxxx 8
+b101000100010101 <
+b0 4
+b10001000000 5
+b0 3
+b0 2
+1&
+1-
+#14
+0&
+0-
+#15
+b1111111111111111 !
+b1111111111111111 +
+b1111111111111111 <
+b0 5
+b0 ;
+b0xxxx 8
+b0 4
+b0xx 7
+b0 3
+b0x 6
+b0 2
+1&
+1-
+#16
+0&
+0-
+#17
+b0 !
+b0 +
+b0x 6
+b0xx 7
+b0xxxx 8
+b0 <
+b0 4
+b0 5
+b0 3
+b0 2
+1&
+1-
+#18
+0&
+0-
+#19
+b0 5
+b0xxxx 8
+b0 4
+b0xx 7
+b0 3
+b0x 6
+b0 2
+1&
+1-
+#20
+0&
+0-
+#21
+b0x 6
+b0xx 7
+b0xxxx 8
+b0 4
+b0 5
+b0 3
+b0 2
+1&
+1-
+#22
+0&
+0-
+#23
+b0 5
+b0xxxx 8
+b0 4
+b0xx 7
+b0 3
+b0x 6
+b0 2
+1&
+1-
+#24
+0&
+0-
+#25
+b0x 6
+b0xx 7
+b0xxxx 8
+b0 4
+b0 5
+b0 3
+b0 2
+1&
+1-
+#26
+0&
+0-
+#27
+b0 5
+b0xxxx 8
+b0 4
+b0xx 7
+b0 3
+b0x 6
+b0 2
+1&
+1-
+#28
+0&
+0-
+#29
+b0x 6
+b0xx 7
+b0xxxx 8
+b0 4
+b0 5
+b0 3
+b0 2
+1&
+1-
+#30
+0&
+0-

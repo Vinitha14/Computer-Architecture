@@ -1,0 +1,198 @@
+$date
+	Fri Mar  8 20:20:12 2019
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module REGF $end
+$var wire 16 ! D1 [15:0] $end
+$var wire 16 " D2 [15:0] $end
+$var reg 1 # Clk $end
+$var reg 16 $ Da [15:0] $end
+$var reg 4 % Re1 [3:0] $end
+$var reg 4 & Re2 [3:0] $end
+$var reg 1 ' Rst $end
+$var reg 4 ( W [3:0] $end
+$scope module rf $end
+$var wire 1 ) Clk $end
+$var wire 16 * D1 [15:0] $end
+$var wire 16 + D2 [15:0] $end
+$var wire 16 , Da [15:0] $end
+$var wire 4 - Re1 [3:0] $end
+$var wire 4 . Re2 [3:0] $end
+$var wire 1 / Rst $end
+$var wire 4 0 W [3:0] $end
+$var integer 32 1 k [31:0] $end
+$scope begin loop $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b10000 1
+b10 0
+1/
+b1 .
+b0 -
+b1111 ,
+b1 +
+b0 *
+1)
+b10 (
+1'
+b1 &
+b0 %
+b1111 $
+1#
+b1 "
+b0 !
+$end
+#1
+0#
+0)
+b11110 $
+b11110 ,
+b10 &
+b10 .
+b1111 "
+b1111 +
+b1 %
+b1 -
+b1 !
+b1 *
+0'
+0/
+#2
+1#
+1)
+b101101 $
+b101101 ,
+b11 &
+b11 .
+b11 "
+b11 +
+b10 %
+b10 -
+b101101 !
+b101101 *
+#3
+0#
+0)
+b111100 $
+b111100 ,
+b100 &
+b100 .
+b100 "
+b100 +
+b11 %
+b11 -
+b11 !
+b11 *
+#4
+1#
+1)
+b1001011 $
+b1001011 ,
+b101 &
+b101 .
+b101 "
+b101 +
+b100 %
+b100 -
+b100 !
+b100 *
+#5
+0#
+0)
+b1011010 $
+b1011010 ,
+b110 &
+b110 .
+b110 "
+b110 +
+b101 %
+b101 -
+b101 !
+b101 *
+#6
+1#
+1)
+b1101001 $
+b1101001 ,
+b111 &
+b111 .
+b111 "
+b111 +
+b110 %
+b110 -
+b110 !
+b110 *
+#7
+0#
+0)
+b1111000 $
+b1111000 ,
+b1000 &
+b1000 .
+b1000 "
+b1000 +
+b111 %
+b111 -
+b111 !
+b111 *
+#8
+1#
+1)
+b10000111 $
+b10000111 ,
+b1001 &
+b1001 .
+b1001 "
+b1001 +
+b1000 %
+b1000 -
+b1000 !
+b1000 *
+#9
+0#
+0)
+b10010110 $
+b10010110 ,
+b1010 &
+b1010 .
+b1010 "
+b1010 +
+b1001 %
+b1001 -
+b1001 !
+b1001 *
+#10
+1#
+1)
+b10100101 $
+b10100101 ,
+b1011 &
+b1011 .
+b1011 "
+b1011 +
+b1010 %
+b1010 -
+b1010 !
+b1010 *
+#11
+0#
+0)
+b10110100 $
+b10110100 ,
+b1100 &
+b1100 .
+b1100 "
+b1100 +
+b1011 %
+b1011 -
+b1011 !
+b1011 *
